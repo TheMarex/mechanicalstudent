@@ -2,6 +2,15 @@
 #
 # MechanicalStudent
 #
+# This script is licensed under GPL v3.
+#
+# Author: Patrick Niklaus <patrick.niklaus@student.kit.edu>
+#
+# Simple script to automate slide downloading for the VBA software
+# used inside KIT.
+#
+# Run: ./mechanicalstudent.py example_list
+#
 
 import mechanize
 import cookielib
